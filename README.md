@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div color="purple" align="center"> I'm Laiba Irfan, a MERN Stack developer 💻</div>  
+### <div align="center"> I'm Laiba Irfan, a MERN Stack developer 💻</div>  
   
 
 - 🔭 I’m currently working on MERN stack   
